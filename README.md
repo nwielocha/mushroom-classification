@@ -1,1 +1,1 @@
-# mushroom-classification
+# Mushroom Classification
